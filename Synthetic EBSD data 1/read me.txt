@@ -1,0 +1,8 @@
+1. The ctf files used for the experiments are found in "ctf files" folder.
+
+2. We project the orientation data in ctf format onto the fundamental region using https://github.com/mtex-toolbox/mtex/releases/download/mtex-4.0.23/mtex-4.0.23.zip in matlab
+
+3. We save the projected orientation maps as .mat files in the "mat folder".
+
+Thus, the two folders contain the same data that differ by a symmetry.
+In our experiments for the paper, we used the "mat files" to allow for easier comparison with the experiments in the mtex paper.
